@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_componentes",
+  "info": {
+    "displayName": "Componente - Footer Phrase",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "frase": {
+      "type": "string"
+    }
+  }
+}
